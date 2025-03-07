@@ -17,9 +17,9 @@ Handshake🟢: https://wright.joinhandshake.com/profiles/dj7zmn
 
 Programming Languages...💨
 
-Python image:
-<img src="https://github.com/user-attachments/assets/dd6940bd-049a-4adb-968a-e5eb49d32a1b" alt="Python Image" width="300" height="200">
+Python, 
+<img src="https://github.com/user-attachments/assets/dd6940bd-049a-4adb-968a-e5eb49d32a1b" alt="Python Image" width="50" height="50">
 
-Go image:
-<img src="https://github.com/user-attachments/assets/ef0c2854-d235-46c3-90e7-bc401ba4c2ea" alt="Go Logo" width="300" height="200">
+Go, 
+<img src="https://github.com/user-attachments/assets/ef0c2854-d235-46c3-90e7-bc401ba4c2ea" alt="Go Logo" width="50" height="50">
 
