@@ -1,4 +1,4 @@
-## I can see you viewed my profile btw 🥸
+### Welcome
 Anyways...🫡🫡🫡
 
 My name is Akshar Patel
@@ -17,4 +17,6 @@ Handshake🟢: https://wright.joinhandshake.com/profiles/dj7zmn
 
 Programming Languages...💨
 
-Python 💪
+Python, ![8110ce8ecd7903031e8567dc24e18d9a](https://github.com/user-attachments/assets/dd6940bd-049a-4adb-968a-e5eb49d32a1b)
+GO, ![Go-Logo_Blue](https://github.com/user-attachments/assets/ef0c2854-d235-46c3-90e7-bc401ba4c2ea)
+
