@@ -1,11 +1,9 @@
 # 💫 About Me:
 My name is Akshar Patel<br><br>Studying at Wright State University<br><br>Major: Info Tech & Cybersecurity 👾👾
 
-## Projects I will be completing this coming Winter Break!
-1. Network Traffic Sniffer and Analyzer
-2. Network Intrusion Detection System (IDS)
-3. Network Monitoring Dashboard
-
+## Currently working on!
+Network Traffic Sniffer and Analyzer
+   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshar1406) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patelakshar1406@gmail.com) 
 
